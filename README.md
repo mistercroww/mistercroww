@@ -11,7 +11,7 @@
 
 - 📝 I write and share stuff on [https://mrcroww.tumblr.com/](https://mrcroww.tumblr.com/)
 
-- 💬 Ask me about **Anything about to game design and code** in Unity or Unreal
+- 💬 Ask me **Anything about game design and coding** in Unity and Unreal :)
 
 - 📫 Email: **felipe.mendez@deadlycrowgames.com**
 
