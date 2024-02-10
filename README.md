@@ -1,6 +1,6 @@
 [![MasterHead](https://pbs.twimg.com/profile_banners/1368425958055833600/1694665594/1500x500)](https://deadlycrowgames.itch.io/)
 <h1 align="center">Howdy, fellow nerds! 👋, I'm Felipe Méndez, A.k.a Mr. Crow 🦇🦇🦇</h1>
-<h3 align="center">A passionate videogames developer and entrepreneur based in Santiago, Chile 🩸</h3>
+<h3 align="center">A passionate videogames developer and entrepreneur based in Santiago, Chile <img align="center" alt="Flag" width="24" src="https://emojiguide.com/wp-content/uploads/platform/twitter/43766.png"></h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mistercroww&label=Profile%20views&color=0e75b6&style=flat" alt="mistercroww" /> </p>
